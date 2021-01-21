@@ -7,10 +7,11 @@ Si el número entero se representa con la letra **n**, un factorial es el produc
 ## Instrucciones
 - Crear un nuevo repositorio utilizando este repositorio como template (Boton: use this template).
 - Editar el código del método factoralize definido en la clase Factoralize con un algoritmo que permita obtener los resultados esperados en los test.
-- Ejecutar los test validando que todos resulten exitosos
+- Ejecutar los test validando que todos resulten exitosos.
 
 
 ## Ejecutar Pruebas
+
 Importar como proyecto Maven desde IDE (sugerencia Eclipse o Intellij)
 
 Run as JUnit Test
